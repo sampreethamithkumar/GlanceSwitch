@@ -149,3 +149,14 @@ GlanceSwitch/
 - The app is **ad‑hoc signed** (local use). Distributing it to others would
   require a Developer ID signature + notarization.
 ```
+
+## Contributing
+
+Contributions are welcome! Feel free to open an issue to report a bug or suggest
+a feature, or submit a pull request. For larger changes, please open an issue
+first to discuss what you'd like to change.
+
+## License
+
+Released under the [MIT License](LICENSE) — free to use, modify, and distribute.
+Copyright © 2026 Sampreeth Amith Kumar.
