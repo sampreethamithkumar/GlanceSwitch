@@ -156,6 +156,12 @@ Contributions are welcome! Feel free to open an issue to report a bug or suggest
 a feature, or submit a pull request. For larger changes, please open an issue
 first to discuss what you'd like to change.
 
+## Acknowledgements
+
+Inspired by [Glance Switch](https://glanceswitch.com/). This is an independent,
+open-source take on the same idea, built from scratch and made freely available
+to everyone.
+
 ## License
 
 Released under the [MIT License](LICENSE) — free to use, modify, and distribute.
