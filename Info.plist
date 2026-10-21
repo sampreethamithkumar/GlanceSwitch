@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key>
+    <string>GlanceSwitch</string>
+    <key>CFBundleDisplayName</key>
+    <string>Glance Switch</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.sampersonal.glanceswitch</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0</string>
+    <key>CFBundleExecutable</key>
+    <string>GlanceSwitch</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>13.0</string>
+    <!-- Agent app: menu bar only, no Dock icon, runs in the background. -->
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSCameraUsageDescription</key>
+    <string>Glance Switch uses the camera to detect which screen you are facing so it can move keyboard focus there.</string>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+</dict>
+</plist>

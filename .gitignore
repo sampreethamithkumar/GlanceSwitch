@@ -1,0 +1,4 @@
+.build/
+GlanceSwitch.app/
+*.xcodeproj
+.DS_Store
